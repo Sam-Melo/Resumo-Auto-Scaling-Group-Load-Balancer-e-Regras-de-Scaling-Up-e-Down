@@ -1,7 +1,7 @@
 # Resumo - Auto Scaling Group, Load Balancer e Regras de Scaling Up e Down
 
 ---
-
+LINK https://github.com/Sam-Melo/Resumo-Auto-Scaling-Group-Load-Balancer-e-Regras-de-Scaling-Up-e-Down/tree/main
 ## Auto Scaling Group  
 
 O **AWS Auto Scaling** é um serviço da Amazon que ajusta automaticamente a quantidade de recursos usados por uma aplicação.  
